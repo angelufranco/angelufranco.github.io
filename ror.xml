@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://angelufranco.github.io/</title>
+  <link>https://angelufranco.github.io/</link>
+
+<item>
+     <link>https://angelufranco.github.io/</link>
+     <title>Angelu Franco | Porfolio</title>
+     <description>This is a personal Portfolio of Angelu Franco, A web developer and graphics designer in Pampanga Philippines.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://angelufranco.github.io/transcript.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
